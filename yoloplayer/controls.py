@@ -64,5 +64,5 @@ class YOLOPlayer:
 
 if __name__ == "__main__":
     # Replace with "video.mp4" or 0 for webcam
-    player = YOLOPlayer("yt2.mp4")
+    player = YOLOPlayer("video.mp4")
     player.run()
